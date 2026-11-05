@@ -146,14 +146,14 @@ cd ~/kb-qld
 아래 명령어와 동일한 압축파일을 Android 다운로드 폴더에 받았다고 가정합니다.
 
 ```bash
-cp ~/storage/downloads/KB-QLD-release.1.91.zip .
+cp ~/storage/downloads/KB-QLD-release.1.92.zip .
 ```
 
 ### 5) unzip 설치 및 압축 해제
 
 ```bash
 pkg install -y unzip
-unzip KB-QLD-release.1.91.zip
+unzip KB-QLD-release.1.92.zip
 ```
 
 ### 6) 설치 폴더 진입
